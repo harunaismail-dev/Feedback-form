@@ -40,7 +40,7 @@
 
     label {
       display: block;
-      margin: 10px 0 5px;
+      margin: 18px 0 5px;
     }
 
     input[type="text"],
@@ -49,7 +49,7 @@
       width: 100%;
       padding: 10px;
       border: none;
-      border-radius: 8px;
+      border-radius: 12px;
       margin-bottom: 10px;
     }
 
@@ -212,8 +212,8 @@
 
     button {
       background-color: #004d00;
-      color: white;
-      padding: 12px 20px;
+      color: yellow;
+      padding: 19px 20px;
       font-size: 1em;
       border: none;
       border-radius: 10px;
