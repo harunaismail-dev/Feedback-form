@@ -17,13 +17,13 @@
       max-width: 600px;
       margin: auto;
       background: rgba(0, 0, 0, 0.2);
-      padding: 30px;
+      padding: 40px;
       border-radius: 15px;
       box-shadow: 0 0 20px rgba(0,0,0,0.3);
     }
 
     h1 {
-      text-align: center;
+      text-align: left;
       margin-bottom: 20px;
     }
 
@@ -35,7 +35,7 @@
     legend {
       font-size: 1.2em;
       font-weight: bold;
-      margin-bottom: 10px;
+      margin-bottom: 30px;
     }
 
     label {
